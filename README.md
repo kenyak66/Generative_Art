@@ -1,3 +1,3 @@
 ### Generative Art練習
 - Processing
-- P5.js(?)
+- p5.js(?)
